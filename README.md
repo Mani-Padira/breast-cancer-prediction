@@ -20,15 +20,15 @@ This project uses a Support Vector Machine (SVM) model to predict whether a tumo
 git clone https://github.com/YOUR_USERNAME/breast-cancer-prediction.git
 cd breast-cancer-prediction
 --
-## 2. Install dependencies:
+# 2. Install dependencies:
 pip install -r requirements.txt
 --
-##3. Run the app:
+#3. Run the app:
 streamlit run app.py
 
 --
-## Dataset
+# Dataset
 [Breast Cancer Wisconsin Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 --
-## Author
+# Author
 Manikanta Padira
